@@ -1,0 +1,3 @@
+h2{text-align: center; text-shadow: 5px 5px 5px black; color: blue; font-size: 5;}
+#columns {column-count:3; column-gap: 4; column-rule: 2px solid pink;}
+#small{text-align: right;}
